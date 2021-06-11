@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mic
+- 👀 I’m interested in continuing to learn Python
+- 🐸 I love frogs
